@@ -39,9 +39,9 @@
 #------------------------------------
 
 
-import math
+#import math
 
-x = 9.1
+#x = 9.1
 
 # print(math.pi)
 # print(math.e)
@@ -50,5 +50,5 @@ x = 9.1
 # result = math.floor(x)
 
 
-print(result)
+#print(result)
 
