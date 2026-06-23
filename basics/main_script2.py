@@ -1,4 +1,4 @@
-from main_script1 import *
+from basics.main_script1 import *
 
 def favourite_drink(drink):
     print(f"your favourite drink is {drink}")
