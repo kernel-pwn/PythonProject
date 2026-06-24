@@ -28,33 +28,8 @@ Selected files
 - mini_projects/banking_program.py — interactive CLI demo
 - mini_projects/slot_machine.py, quiz game.py, dice roller program.py — practice apps
 
-## Quick start
-1. Clone:
-   ```
-   git clone https://github.com/kernel-pwn/PythonProject.git
-   cd PythonProject
-   ```
-2. (Optional) Create a virtual environment:
-   ```
-   python3 -m venv venv
-   source venv/bin/activate   # macOS / Linux
-   venv\Scripts\activate      # Windows (PowerShell)
-   ```
-3. Run any example:
-   ```
-   python basics/main.py
-   python mini_projects/banking_program.py
-   ```
-   Note: some filenames contain spaces — either escape them or open them in an editor.
-
 ## Notes / personal rules
 - Keep examples short and well-commented so I can read them later.
 - When I learn a new concept, I add one example + one small exercise.
 - Prefer descriptive filenames (consider renaming files that contain spaces).
 
-## Ideas / next steps
-- Remove spaces from filenames for easier use.
-- Add a short NOTES.md for concept summaries I want to keep.
-- Add a LICENSE (if I want to share publicly).
-
-If you want any changes to the text (tone, additional sections), tell me and I’ll update the README.md.
